@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="921" xOffset="0" scrollWidth="827" startPos="20064" endPos="20064" selMode="0" offset="0" wrapCount="1" lang="Assembly" encoding="-1" userReadOnly="no" filename="C:\Users\Admin\Documents\COAL\Assembly Programming Tools\gameSc.asm" backupFilePath="C:\Users\Admin\Documents\COAL\Assembly Programming Tools\assemblytools\Notepad++Portable\Data\Config\backup\gameSc.asm@2025-10-23_014827" originalFileLastModifTimestamp="1431480432" originalFileLastModifTimestampHigh="31212436" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="912" xOffset="0" scrollWidth="1007" startPos="19796" endPos="19796" selMode="0" offset="0" wrapCount="1" lang="Assembly" encoding="-1" userReadOnly="no" filename="C:\Users\Admin\Documents\COAL\Assembly Programming Tools\project.asm" backupFilePath="" originalFileLastModifTimestamp="55077265" originalFileLastModifTimestampHigh="31212437" tabColourId="-1" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
