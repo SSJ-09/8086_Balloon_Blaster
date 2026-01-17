@@ -11,7 +11,7 @@ This repository contains a **Semester 3 COAL project** implemented in **NASM 16-
   <br><br>
   <img src="screenshots/loading.png" width="500">
   <br><br>
-  <img src="screenshots/gamesceen.png" width="500">
+  <img src="screenshots/gamescreen.png" width="500">
   <br><br>
   <img src="screenshots/gamepause.png" width="500">
   <br><br>
